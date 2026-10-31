@@ -1,18 +1,14 @@
-/게임 종료 메시지.py
-/놓친 운석 수.py
-/미사일 발사하기.py
-/미사일과 운석 충돌 체크.py
-/방향 키 누르기 (pygame.key.set_repeat(1,1)).py
-/방향 키 누르기(pygame.key.get_pressed()).py
-/방향 키 누르기.py
-/배경그리기.py
-/운석 다시 나타나게 하기 (운석 새로 추가).py
-/운석 다시 나타나게 하기.py
-/운석 떨어지게 하기 (랜덤 위치).py
-/운석 떨어지게 하기 (화면 벗어나는 버그 수정).py
-/운석 떨어지게 하기.py
-/운석 이미지 그리기.py
-/전투기 벽 처리.py
-/전투기 이미지 그리기.py
-/점수.py
-/폭발 이미지 그리기.py
+*
+!.gitignore
+!.DS_Store
+!README.md
+!background.png
+!explosion.png
+!explosion.wav
+!fighter.png
+!game_over.wav
+!missile.png
+!missile.wav
+!music.mid
+!rock.png
+!최종본.py
